@@ -1,0 +1,53 @@
+{
+  "usuario": [
+    {
+      "id": "bruno@bfervilha.com.br",
+      "nome": "Bruno Ervilha",
+      "senha": "123",
+      "email": "bruno@bfervilha.com.br",
+      "rua": "Rua antonio leite penteado",
+      "cep": "12345678",
+      "numero": "59",
+      "estado": "SP",
+      "cidade": "Ribeirão Preto"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "bruno@bfervilha.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "bruno@bfervilha.com.br",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "bruno@bfervilha.com.br",
+      "preco": "3999",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet.",
+      "fotos": null
+    },
+    {
+      "id": "smartwatch",
+      "nome": "Smartwatch",
+      "usuario_id": "bruno@bfervilha.com.br",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartwatch.",
+      "fotos": null
+    }
+  ]
+}
